@@ -14,7 +14,6 @@ numbers.each do |phone_number|
   end
 end
 
-
 # For every element number in the array 'numbers' print out every odd number.
 numbers.each do |number|
   if number % 2 == 1
